@@ -16,4 +16,4 @@ It does:
 Change some links and email address.
 I used personal email and my Google Drive account.
 NOTE: You must be logged into your system and your email account
-
+NOTE2: This code reads an Excel file.
